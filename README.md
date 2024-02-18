@@ -1,1 +1,6 @@
 # EHCCTFTraining
+
+
+# WELCOME TO THE CTF WUP FOR EHC CHALLENGES, I'M QUANG ANH, CTV BVH OF EHC
+
+![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/35046a69-26b4-4977-8428-9eec0b33184b)
