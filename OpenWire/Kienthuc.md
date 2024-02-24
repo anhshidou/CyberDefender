@@ -1,4 +1,5 @@
-# Ở Q1, C2 server ở đây có nghĩa là
+# Ở Q1 
+C2 server ở đây có nghĩa là:
 A command-and-control (C2) server is a main tool cyber threat actors have in their arsenal to launch and control cyber attacks. 
 Threat actors use C2s to send commands to their malware and to distribute malicious programs, malicious scripts, and more. 
 They also use them to receive stolen data that they exfiltrated from target servers, devices, websites, and forms. 
