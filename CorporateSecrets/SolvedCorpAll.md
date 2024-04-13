@@ -285,7 +285,7 @@ Có bao nhiêu bí mật mà Tim có
 
 ![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/fb42f0b1-adbf-4cda-b9f8-29bac11f5049)
 
-Xem qua các magic bytes, ta thấy đây là file PKZIP. Vậy là ta phải giải nén nó ? Thực chất là không phải vậy, nếu như để ý kĩ thì có 1 đoạn text bị đổi màu để không cho chúng ta nhìn thấy, lúc này ta cần phải chú ý kĩ, và khi đã tìm được thì ta có thể chọn màu bất kì và nhận được đáp án
+Xem qua các magic bytes, ta thấy đây là file PK, là 1 file docx. Vì vậy nếu như để ý kĩ thì có 1 đoạn text bị đổi màu để không cho chúng ta nhìn thấy, lúc này ta cần phải chú ý kĩ, và khi đã tìm được thì ta có thể chọn màu bất kì và nhận được đáp án
 
 ![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/68b14dca-0e32-4c60-83e0-c0edbf740434)
 
