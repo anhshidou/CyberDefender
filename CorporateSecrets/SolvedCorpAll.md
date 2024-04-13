@@ -739,11 +739,11 @@ Mà PK ở đây là
 
 Vậy là bài này có lẽ sẽ liên quan đến giải nén gì đó. Vậy là ta quay về lại bước binwalk.
 
-Có một thứ khá mới ở đây là file.xml, em chưa từng gặp bất cứ 1 file docx nào mà bên trong nó có 1 file là file.xml
+Dưới đây là 1 mẫu của file docx, vì, sau khi xem magic byte thì ta biết được rằng đây là file docx. 
 
 ![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/300ca7c7-f393-48bc-90f8-07cd324b8e9d)
 
-Đây là 1 mẫu của file docx. Và, sau khi xem magic byte thì ta biết được rằng đây là file docx. 
+Vậy, nghi vấn là ở file.xml, ta chỉ cần đổi sang thành file doc là được
 
 ![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/0003565b-cd10-4832-90cb-7cefc926ffb1)
 
