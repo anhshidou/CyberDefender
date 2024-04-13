@@ -397,23 +397,7 @@ Lúc này, ta làm giống như ở khi ta tìm trên Firefox vậy.
 
 Ở ví dụ dưới, ta thấy, dữ liệu lịch sử ở trên chrome được lưu ở C:\Users\user\AppData\Local\Google\Chrome\User Data\Default\History.
 
-![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/b786c8c7-9cad-49e4-b1af-9e17b206e59d)
-
-Ở bài này, ta có dữ kiện quan trọng nhất là user là Tim. 
-
-![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/63b7d154-38e4-4dc5-8cf7-809d785105eb)
-
-Khi ta cố gắng xem ở History theo Database, ta thấy rằng kết quả sẽ không có gì cả
-
-![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/6c0d7681-244e-4f13-ac54-3ad0f98e0f82)
-
-Vậy là, lúc này nó sẽ không nằm ở History, vậy có lẽ nó sẽ nằm ở cả Default thì sao ? Ở nơi mà chúng ta không biết
-
-![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/3d973efa-70a0-4ea7-b28e-f729266db290)
-
-Vậy là vẫn chưa ra, vậy thì hãy thử mở rộng phạm vi tìm kiếm... Em nhầm tên User... Phải là Jim mới đúng...
-
-Khi mà đổi lại tên user... Thì ta chỉ cần từ làm theo đúng như cách đầu tiên ta làm, rồi sử dụng DBbrowser là được
+User ở đây là Jim. Ta làm theo đúng như cách trên giống như ở Firefox, rồi sử dụng DBbrowser là được
 
 ![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/41ef365d-8297-4c77-bcb7-f39620ba97eb)
 
@@ -446,7 +430,7 @@ Xem ở hive SAM là bạn sẽ ra
 
 # Q21
 
-tìm DHCP domain
+Tìm DHCP domain
 
 DHCP chính là từ viết tắt của cụm từ Dynamic Host Configuration Protocol (được dịch là Giao thức Cấu hình Host Động). Theo đó, DHCP là giao thức có chức năng cấp phát địa chỉ IP cho tất cả các thiết bị truy cập trên cùng một mạng thông qua máy chủ DHCP được tích hợp trên router. 
 
