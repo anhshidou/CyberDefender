@@ -316,9 +316,13 @@ Giải thích lại SAM thì: SAM là Security Account Manager. Đây là 1 file
 Ta check SAM, sau đó so sánh giữa thời gian cuối cùng của các username để tìm ra câu trả lời
 
 tim.apple: Sun Apr 12 00:59:31 2020
+
 jim.tomato: Sun Apr 12 04:17:03 2020
+
 suzy.strawberry: Sun Apr 12 03:09:25 2020
+
 hansel.apricot: Sun Apr 12 02:08:59 2020
+
 miriam.grapes: Sun Apr 12 01:17:13 2020
 
 Vậy, ta có thể thấy, người login cuối cùng là jim.tomato
