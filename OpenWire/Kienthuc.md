@@ -44,5 +44,3 @@ A class on the classpath which can execute arbitrary code simply by instantiatin
 # Ở Q8
 Các Articles để đọc: https://fidelissecurity.com/threatgeek/threat-intelligence/unveiling-apache-activemq-vulnerability/
 https://attackerkb.com/topics/IHsgZDE3tS/cve-2023-46604/rapid7-analysis
-
-![image](https://github.com/anhshidou/EHCCTFTraining/assets/120787381/3d7cb0f0-6cf0-42e7-a655-d1719e84947f)
